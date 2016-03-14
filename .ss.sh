@@ -2,16 +2,16 @@
 #===============================================================================================
 #   SysRequired: Debian or Ubuntu (32bit/64bit)
 #   Description: Shadowsocks(libev) for Debian or Ubuntu
-#   email: admin@ashker.net
-#   blog:  http://www.ashker.Net
+#   email: admin@google.com
+#   blog:  http://www.google.com
 #===============================================================================================
 
 clear
 echo "#############################################################"
 echo "# Install Shadowsocks(libev) for Debian or Ubuntu (32bit/64bit)"
-echo "# blog: http://www.ashker.net"
+echo "# blog: http://www.google.com"
 echo "# Hello,W0rld"
-echo "# email: admin@ashker.net"
+echo "# email: admin@google.com"
 echo "# encrypt:aes-256-cfb"
 echo "#############################################################"
 echo ""
