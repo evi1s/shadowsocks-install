@@ -1,14 +1,9 @@
 #! /bin/bash
-#===============================================================================================
-#   SysRequired: Debian or Ubuntu (32bit/64bit)
-#   Description: Shadowsocks(libev) for Debian or Ubuntu
-#   email: admin@google.com
-#   blog:  http://www.google.com
-#===============================================================================================
+#===================================================================
 
 clear
 echo "#############################################################"
-echo "# Install Shadowsocks(libev) for Debian or Ubuntu (32bit/64bit)"
+echo "# Shadowsocks(libev) for Debian or Ubuntu (32bit/64bit)"
 echo "# blog: http://www.google.com"
 echo "# Hello,W0rld"
 echo "# email: admin@google.com"
@@ -31,7 +26,7 @@ apt-get update
 apt-get install -y --force-yes build-essential autoconf libtool libssl-dev git curl
 
 #download source code
-git clone https://github.com/madeye/shadowsocks-libev.git
+git clone https://github.com/evi1s/shadowsocks-libev.git
 
 #compile install
 cd shadowsocks-libev
